@@ -1,4 +1,7 @@
 # SOFIE
+
+# Check about ALPAKA and it's documentation
+
 This is an experimental standalone version of SOFIE - a tool for Fast ML Inference within ROOT - the scientific data analysis framework.
 
 Since SOFIE is a part of ROOT and therefore needs to be built altogether, it takes quite a long time in its development and testing. This standalone version allows you to just build SOFIE with the pre-built binaries of ROOT- making the entire development process way faster.
